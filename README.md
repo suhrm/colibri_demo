@@ -4,7 +4,7 @@
 
 * Very basic server, wait for incomming connect => read temperature and humidity.
 
-## TODO:
+### TODO:
 * Add camera part
 * Add virtual network part
 * make config file for server and camera instead of hardcoded ports/ip's
