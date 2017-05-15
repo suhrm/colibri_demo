@@ -1,0 +1,9 @@
+## THIS IS THE COLOBRI DEMO ###
+### CURRENT:
+* Very basic sensor part, wait for valid value from dht11 => transmit to server.
+
+* Very basic server, wait for incomming connect => read temperature and humidity.
+
+## TODO:
+* Add camera part
+* Add virtual network part

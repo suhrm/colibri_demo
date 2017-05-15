@@ -1,0 +1,3 @@
+/home/suhrm/Documents/08sem/colibri/demo/colibri_demo_server/build/CMakeFiles/rebuild_cache.dir
+/home/suhrm/Documents/08sem/colibri/demo/colibri_demo_server/build/CMakeFiles/edit_cache.dir
+/home/suhrm/Documents/08sem/colibri/demo/colibri_demo_server/build/CMakeFiles/main.dir

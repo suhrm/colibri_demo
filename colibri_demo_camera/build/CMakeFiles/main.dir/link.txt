@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/main.dir/src/dht11.cpp.o CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/sender.cpp.o  -o main -rdynamic -lpthread -lwiringPi -lwiringPiDev 
